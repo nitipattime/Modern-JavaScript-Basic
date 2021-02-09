@@ -1,1 +1,1 @@
-# Modern-JavaScript
+# Modern-JavaScript Basic
